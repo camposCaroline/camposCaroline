@@ -2,7 +2,7 @@
  
 ####  🔭 Tenho interesse nas áreas: Back-end e Banco de Dados.
  
-####  🖋️ Estou estudando JavaScript.
+####  🖋️ Estou estudando Data Analytics.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
