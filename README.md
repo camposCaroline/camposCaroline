@@ -1,6 +1,6 @@
  ## Oii! Eu sou a Caroline Campos ✨✨
  
-####  🔭 Tenho interesse nas áreas: Back-end e Banco de Dados.
+####  🔭 Tenho interesse nas áreas: Back-end, Banco de Dados e Inteligência Artificial.
  
 ####  🖋️ Estou estudando Data Analytics.
  
